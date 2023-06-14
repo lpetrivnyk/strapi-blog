@@ -114,3 +114,6 @@ exports
 dist
 build
 .strapi-updater.json
+
+# Local Netlify folder
+.netlify
