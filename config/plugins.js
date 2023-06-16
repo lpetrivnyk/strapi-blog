@@ -1,5 +1,5 @@
-module.exports = ({ env }) => ({
-  "netlify-deployments": {
-    enabled: true,
-  },
-});
+// module.exports = ({ env }) => ({
+//   "netlify-deployments": {
+//     enabled: true,
+//   },
+// });
